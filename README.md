@@ -7,5 +7,6 @@ This project is a Python-based workflow to gather and summarize information abou
 1. Clone the repository:
   git clone https://github.com/unmeshk9/ai_prospect_research_workflow.git
 2. Install dependencies:
-3. Run the script
+   pip install -r requirements.txt
+4. Run the script
    python main.py
