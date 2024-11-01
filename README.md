@@ -5,8 +5,11 @@ This project is a Python-based workflow to gather and summarize information abou
 
 ## Setup
 1. Clone the repository:
-  git clone https://github.com/unmeshk9/ai_prospect_research_workflow.git
+   git clone https://github.com/unmeshk9/ai_prospect_research_workflow.git
 2. Install dependencies:
    pip install -r requirements.txt
-4. Run the script
-   python main.py
+3. 3. Run the command-line script:
+   python cli_main.py
+4. Run the Flask web application:
+   python flask_app.py
+
